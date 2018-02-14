@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forhappywomen/forhappywomen_nodejs.git"
+  },
+  "author": "forhappywomen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forhappywomen/forhappywomen_nodejs/issues"
+  },
+  "homepage": "https://github.com/forhappywomen/forhappywomen_nodejs#readme",
+  "dependencies": {
+    "steem": "^0.7.1"
+  }
+}
